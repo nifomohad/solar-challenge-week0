@@ -1,0 +1,1 @@
+# nifomohad-solar-challenge-week0
