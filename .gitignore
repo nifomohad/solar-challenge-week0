@@ -1,2 +1,5 @@
 env
 data
+notebooks/.ipynb_checkpoints
+src/__pycache__
+notebooks/sierraleone_eda.ipynb
